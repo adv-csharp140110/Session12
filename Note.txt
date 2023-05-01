@@ -1,0 +1,57 @@
+﻿Email
+	SMTP
+		ip/address server
+		user
+		password
+
+		SMPT SERVER FAKE (Test)
+		https://ethereal.email/
+
+	POP3
+	IMAP
+
+
+SMS	
+	Panel SMS
+
+
+
+Reporting
+	Crystal Report
+	Telerik Report
+	Fast Report
+	StimulSoft
+		RTL
+		Cross Platform (desktop/web/mobile)
+		Export -> pdf/word/excel
+		Multi Database
+		End user deigner
+
+
+
+Transaction
+	EF Context
+	TransactionScope
+	Pattern Unit Of Work
+		Generic Repository V2
+
+Regular Expression - Regex
+	عبارات با قاعده
+	string
+
+	test email:
+		1@2.3 ❌
+	test phone
+	test custom
+
+	regex:
+		pattern - cross language
+
+
+---
+Lmbda Expression & Delegate
+Deploy (obfuscate & install)
+Database Embeded 
+Captcha
+Export Excel
+Pattern Matching
